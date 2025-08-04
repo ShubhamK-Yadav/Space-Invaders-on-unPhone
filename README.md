@@ -1,5 +1,5 @@
-## Space Invaders on unPhone
-### Overview
+# Space Invaders on unPhone
+## Overview
 This project implements the classic Space Invaders arcade game in C++ for the unPhone handheld device. It was developed using PlatformIO inside Visual Studio Code and demonstrates game logic, rendering, and input handling on motion controls via the built-in accelerometer.
 
 ### Features
